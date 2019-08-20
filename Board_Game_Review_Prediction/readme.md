@@ -1,6 +1,6 @@
 ###### ML Projects
 # Board Game Prediction Review(BGPR)
-A ML project  that utilists a game review data set from (Board Game Geek)[https://github.com/ThaWeatherman/scrapers/tree/master/boardgamegeek]. 
+A ML project  that utilists a game review data set from [Board Game Geek](https://github.com/ThaWeatherman/scrapers/tree/master/boardgamegeek).
 This project uses **Linear Regression Model**  and **Random Forest Generator** algorithm for predicting review rating of a given names utilising the 80k rows dataset.
 
 
@@ -15,9 +15,9 @@ The results are seen in the Jupyter notebook using print commands.
 | Anaconda | 4.7.0+  |
 | Jupyter Core | 4.5.0+  |
 
-## Algorithims
-### Linear Regression Model (LRM)
-### Random Forest Regressio(RF)
+## Algorithims Used
+- Linear Regression Model (LRM)
+- Random Forest Regressio(RF)
 
 ## Process  
 
@@ -43,7 +43,3 @@ The average rating we predicting using RFR is **7.91**
 
 
 Therefore, LR is a good algorithm to use for predicting a game review with the current database.
-
-
-
-
