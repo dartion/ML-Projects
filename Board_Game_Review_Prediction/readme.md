@@ -39,6 +39,7 @@ The results are seen in the Jupyter notebook using print commands.
 For a target_rating from a randomly picked row is **8.07**
 
 The average rating we predicting using LR is **8.12**
+
 The average rating we predicting using RFR is **7.91**
 
 
