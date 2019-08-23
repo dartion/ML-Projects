@@ -1,5 +1,3 @@
-
-  
 ###### ML Projects  
 # DNA Classification (DNAC)  
 An ML project that utilizes a data set from the UCI Machine Learning Repository to predict a promoter/non-promoter for a given DNA sequence.  
