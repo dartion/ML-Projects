@@ -58,9 +58,9 @@ N Nearest Neighbours
            0       1.00      0.65      0.79        17
            1       0.62      1.00      0.77        10
 
-    accuracy                           0.78        27
-   macro avg       0.81      0.82      0.78        27
-weighted avg       0.86      0.78      0.78        27
+    accuracy                               0.78        27
+    macro avg          0.81      0.82      0.78        27
+    weighted avg       0.86      0.78      0.78        27
 
 Gaussian Process
 0.8888888888888888
