@@ -42,7 +42,7 @@ The result summary of all other algorithms are as follows:
 		       0       1.00      0.65      0.79        17
 		       1       0.62      1.00      0.77        10
 
-    		accuracy				   0.78        27
+    	accuracy				   0.78        27
        macro avg      	       0.81      0.82      0.78        27
     weighted avg       	       0.86      0.78      0.78        27
 
@@ -54,7 +54,7 @@ The result summary of all other algorithms are as follows:
 	               0       1.00      0.82      0.90        17
 	               1       0.77      1.00      0.87        10
 
-		accuracy 	       	           	   0.89        27
+	accuracy 	       	           	   0.89        27
        macro avg       	       0.88      0.91      0.89        27
     weighted avg               0.91      0.89      0.89        27
 
@@ -66,7 +66,7 @@ The result summary of all other algorithms are as follows:
 		       0       0.92      0.71      0.80        17
 		       1       0.64      0.90      0.75        10
 
-        	accuracy			           0.78        27
+        accuracy			           0.78        27
        macro avg   	       0.78      0.80      0.78        27
     weighted avg       	       0.82      0.78      0.78        27
 
@@ -78,7 +78,7 @@ The result summary of all other algorithms are as follows:
 		        0       0.67      0.35      0.46        17
 		        1       0.39      0.70      0.50        10
 
-		accuracy                		    0.48        27
+	accuracy                		    0.48        27
        macro avg    	   	0.53      0.53      0.48        27
     weighted avg           	0.56      0.48      0.48        27
 
@@ -90,7 +90,7 @@ The result summary of all other algorithms are as follows:
 		        0       1.00      0.88      0.94        17
 		        1       0.83      1.00      0.91        10
 
-		accuracy               		            0.93        27
+	accuracy               		            0.93        27
        macro avg       		0.92      0.94      0.92        27
     weighted avg       		0.94      0.93      0.93        27
 
@@ -102,7 +102,7 @@ The result summary of all other algorithms are as follows:
 		         0       1.00      0.76      0.87        17
 		         1       0.71      1.00      0.83        10
 
-        	accuracy                      		     0.85        27
+        accuracy                      		     0.85        27
        macro avg      		 0.86      0.88      0.85        27
     weighted avg       	   	 0.89      0.85      0.85        27
 
@@ -114,7 +114,7 @@ The result summary of all other algorithms are as follows:
 		         0       1.00      0.88      0.94        17
 		         1       0.83      1.00      0.91        10
 
-		accuracy         	                     0.93        27
+	accuracy         	                     0.93        27
        macro avg       		 0.92      0.94      0.92        27
     weighted avg       		 0.94      0.93      0.93        27
 
@@ -126,7 +126,7 @@ The result summary of all other algorithms are as follows:
 		         0       1.00      0.94      0.97        17
 		         1       0.91      1.00      0.95        10
 
-		accuracy           	                     0.96        27
+	accuracy           	                     0.96        27
        macro avg       		 0.95      0.97      0.96        27
     weighted avg       		 0.97      0.96      0.96        27
 
@@ -138,7 +138,7 @@ The result summary of all other algorithms are as follows:
 		         0       1.00      0.65      0.79        17
 		         1       0.62      1.00      0.77        10
 
-		accuracy         	                     0.78        27
+	accuracy         	                     0.78        27
        macro avg       		 0.81      0.82      0.78        27
     weighted avg       	 	 0.86      0.78      0.78        27
 
@@ -150,6 +150,6 @@ The result summary of all other algorithms are as follows:
 		          0       1.00      0.12      0.21        17
 		          1       0.40      1.00      0.57        10
 
-		accuracy                           	      0.44        27
+	accuracy                           	      0.44        27
        macro avg       		  0.70      0.56      0.39        27
     weighted avg       		  0.78      0.44      0.34        27
