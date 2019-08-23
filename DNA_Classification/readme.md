@@ -145,7 +145,7 @@ The result summary of all other algorithms are as follows:
 **SVM Sigmoid
 0.4444444444444444**
               
-		              precision    recall  f1-score   support
+		               precision    recall  f1-score   support
 
 		          0       1.00      0.12      0.21        17
 		          1       0.40      1.00      0.57        10
