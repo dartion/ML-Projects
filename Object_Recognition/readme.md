@@ -40,4 +40,5 @@ https://github.com/PAN001/All-CNN/blob/master/all_cnn_weights_0.9088_0.4994.hdf5
 
 
 ## Results 
+![OR_Result](https://user-images.githubusercontent.com/10276538/63995773-08a53880-cb3d-11e9-8631-70a8e43f0b86.png)
 
