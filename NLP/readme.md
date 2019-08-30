@@ -4,6 +4,21 @@ NLP is an area of computer science and Artificial Intelligence to identify inter
 
 In this project, I give a brief programming introduction to tokenizing, speech tagging, chunking and chinking before moving on to classifying text (to identify a review to be positive or negative).
 
+## Development
+BGPR project is developed in OSX using Python language with the help of Anaconda Jupyter Notebook.
+The results are seen in the Jupyter notebook using print commands. 
+## Requirements
+| Requirement  |  Version |
+|--|--|
+| OSX | Sierra+  |
+| Python | 3.7+  |
+| Anaconda | 4.7.0+  |
+| Jupyter Core | 4.5.0+  |
+
+## Algorithms Used
+- Linear Regression Model (LRM)
+- Random Forest Regression(RF)
+
 In this project, I do the following for the imported text, 
 
 1. Tokenising
